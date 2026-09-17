@@ -1,6 +1,6 @@
 # ------------------------------------------------------
-#        Name: (put your name here)
-#       Peers: (add any collaborators)
+#        Name: Jadin wilson
+#       Peers: none
 #  References: (anything you checked to solve this)
 # ------------------------------------------------------
 
@@ -39,13 +39,42 @@ def main():
     result4 = 0
     result5 = 0
     # End of Setup code ---------------------------
-
-
+ 
 
     # Part 1: Basic Operations
     # =============================================
     # Your code for part 1 under this line and before the print statements
-
+    
+    x= 27
+    
+    y=1
+    
+    a=1.5
+    
+    b= 7
+    
+    c= -1
+    
+    Q = 3 * x - 9 * y
+    
+    P = a * (b-c) * 2
+    
+    result1 = Q/P
+    
+    
+    
+    print ("part1:","x =", x)
+    
+    print ("part 1:","y =", y)
+    
+    print("part 1:","a =", a)
+    
+    print ("part 1:","b =", b)
+    
+    print("part 1:","c =", c)
+    
+    print("part 1:","result =", result1)
+    
     # End of Part 1 ----------------------
 
 
@@ -53,21 +82,44 @@ def main():
     # =============================================
     # Your code for part 2 under this line and before the print statements
 
+    x = 5
+    
+    y = -3
+    
+    result2 = x**2*y**4
+    
+    print("part 2:","x =", x)
+    
+    print("part 2:", "y =", y)
+    
+    print("part 2:", "result =",result2)
+    
     # End of Part 2 ----------------------
 
-
+    
 
     # Part 3: Integer divide
     # =============================================
     # Your code for part 3 under this line and before the print statements
-
+    a = 100
+    b = 13
+    
+    result3 = a//b
+    
+    print("part 3:", "a =", a)
+    print("part 3:","b = ", b)
+    print("part 3:","result = ", result3)
+    
     # End of Part 3 ----------------------
 
-
+    
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
-
+    result4 = a%b
+    
+    print("part 4:", "result =", result4)
+    
     # End of Part 4 ----------------------
 
 if __name__ == "__main__":
