@@ -54,10 +54,13 @@ def main():
     b= 7
     
     c= -1
+#  3 x 27 - 9 x 1 
     
     Q = 3 * x - 9 * y
+# 1.5 x (7-(-1)) x 2
     
     P = a * (b-c) * 2
+# now divide them together
     
     result1 = Q/P
     
@@ -85,7 +88,8 @@ def main():
     x = 5
     
     y = -3
-    
+
+# 5^2 x -3^4    
     result2 = x**2*y**4
     
     print("part 2:","x =", x)
@@ -104,6 +108,7 @@ def main():
     a = 100
     b = 13
     
+#100/13
     result3 = a//b
     
     print("part 3:", "a =", a)
@@ -116,6 +121,9 @@ def main():
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
+
+# The remainer of 100/13
+
     result4 = a%b
     
     print("part 4:", "result =", result4)
