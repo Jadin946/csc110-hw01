@@ -45,15 +45,15 @@ def main():
     # =============================================
     # Your code for part 1 under this line and before the print statements
     
-    x= 27
+    x=27
     
     y=1
     
     a=1.5
     
-    b= 7
+    b=7
     
-    c= -1
+    c=-1
 #  3 x 27 - 9 x 1 
     
     Q = 3 * x - 9 * y
@@ -66,17 +66,17 @@ def main():
     
     
     
-    print ("part1:","x =", x)
+    print ("Part 1: x =",x)
     
-    print ("part 1:","y =", y)
+    print ("Part 1: y =",y)
     
-    print("part 1:","a =", a)
+    print("Part 1: a =",a)
     
-    print ("part 1:","b =", b)
+    print ("Part 1: b =",b)
     
-    print("part 1:","c =", c)
+    print("Part 1: c =",c)
     
-    print("part 1:","result =", result1)
+    print("Part 1: result =", result1)
     
     # End of Part 1 ----------------------
 
@@ -92,11 +92,11 @@ def main():
 # 5^2 x -3^4    
     result2 = x**2*y**4
     
-    print("part 2:","x =", x)
+    print("Part 2:","x =",x)
     
-    print("part 2:", "y =", y)
+    print("Part 2:","y =", y)
     
-    print("part 2:", "result =",result2)
+    print("Part 2:","result =",result2)
     
     # End of Part 2 ----------------------
 
@@ -111,9 +111,9 @@ def main():
 #100/13
     result3 = a//b
     
-    print("part 3:", "a =", a)
-    print("part 3:","b = ", b)
-    print("part 3:","result = ", result3)
+    print("Part 3: a =", a)
+    print("Part 3: b =", b)
+    print("Part 3: result =", result3)
     
     # End of Part 3 ----------------------
 
@@ -126,7 +126,7 @@ def main():
 
     result4 = a%b
     
-    print("part 4:", "result =", result4)
+    print("Part 4:", "result =", result4)
     
     # End of Part 4 ----------------------
 
